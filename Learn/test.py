@@ -1,4 +1,4 @@
-tasks = ["Eat lunch","Study for 7+ hours","Clean dishes"]
+tasks = ["Eat lunch","Study for 7+ hours","Clean dishes","import files"]
 run = True
 def show_tasks():
     if len(tasks) >0:
